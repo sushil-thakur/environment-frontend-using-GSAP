@@ -7,19 +7,19 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        zentry: ['zentry','sanf-serif'],
+        zentry: ['zentry','sans-serif'],
         general: ['general', 'sans-serif'],
-        'circlar-web': ['circlar-web', 'sans-serif'],
-        'robert-medium': ['rober-medium', 'sans-serif'],
+        'circular-web': ['circular-web', 'sans-serif'],
+        'robert-medium': ['robert-medium', 'sans-serif'],
         'robert-regular': ['robert-regular', 'sans-serif'],
-         
-        colors:{
-          blue: {
-            50: '#DFDFF0',
-            75: '#DFDFF2',
-            100: '#F0F2FA',
-            200: '#010101',
-            300: '#4FB7DD'
+      },
+      colors:{
+        blue: {
+          50: '#DFDFF0',
+          75: '#DFDFF2',
+          100: '#F0F2FA',
+          200: '#010101',
+          300: '#4FB7DD'
         },
         violet:{
           300: '#5724FF'
@@ -29,11 +29,7 @@ export default {
           300: '#EDFF66'
         }
       }
-
-
-      }
-    },
+    }
   },
   plugins: [],
 }
-
