@@ -6,6 +6,7 @@ import Features from './components/Features'
 import Story from './components/Story'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import ImageSlider from './components/ImageSlider'
 
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
     <Navbar/>
     <Hero/>
    <About/>
+   <ImageSlider/>
    <Features/>
    <Story/>
    <Contact/>

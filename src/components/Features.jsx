@@ -103,12 +103,10 @@ const Features = () => (
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 py-32">
         <p className="font-circular-web text-lg text-blue-50">
-          Into the Metagame Layer
+          Into the Planet Insight Layer
         </p>
         <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50">
-          Immerse yourself in a rich and ever-expanding universe where a vibrant
-          array of products converge into an interconnected overlay experience
-          on your world.
+          Unify nature, data, and decision-making — all layered beautifully over your world in one interactive dashboard.
         </p>
       </div>
 
@@ -117,11 +115,11 @@ const Features = () => (
           src="videos/feature-1.mp4"
           title={
             <>
-              radia<b>n</b>t
+              EarthSlig<b>h</b>t
             </>
           }
-          description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
-          isComingSoon
+          description="A satellite-powered intelligence platform, turning environmental change and real estate data into meaningful insights and real-time decisions."
+          
         />
       </BentoTilt>
 
@@ -131,11 +129,11 @@ const Features = () => (
             src="videos/feature-2.mp4"
             title={
               <>
-                zig<b>m</b>a
+                Earth<b>S</b>can
               </>
             }
-            description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
-            isComingSoon
+            description="A satellite and AI-powered tool to detect deforestation, mining, and land use changes in real time — protecting nature with precision."
+            
           />
         </BentoTilt>
 
@@ -144,11 +142,11 @@ const Features = () => (
             src="videos/feature-3.mp4"
             title={
               <>
-                n<b>e</b>xus
+                Fire<b>S</b>can
               </>
             }
-            description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
-            isComingSoon
+            description="A real-time AI-powered system that detects and alerts forest fires using satellite data — protecting forests before it's too late."
+
           />
         </BentoTilt>
 
@@ -157,11 +155,11 @@ const Features = () => (
             src="videos/feature-4.mp4"
             title={
               <>
-                az<b>u</b>l
+               orb<b>i</b>ta
               </>
             }
-            description="A cross-world AI Agent - elevating your gameplay to be more fun and productive."
-            isComingSoon
+            description="A satellite-powered AI layer — watching Earth from above to track deforestation, land change, and environmental impact in real time."
+            
           />
         </BentoTilt>
 
@@ -182,6 +180,7 @@ const Features = () => (
             muted
             autoPlay
             className="size-full object-cover object-center"
+            
           />
         </BentoTilt>
       </div>

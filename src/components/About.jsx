@@ -29,21 +29,21 @@ const About = () => {
     <div id='about' className='min-h-screen w-screen'>
         <div className='relative mb-8 mt-36 flex flex-col items-center gap-5'>
             <h2 className='font-general text-sm uppercase md:text-[10px]'>
-                Welcome to Zentry
+                Welcome to Earth Sight
             </h2>
             <AnimatedTitle title=" Disc<b>o</b>ver the world's <br/>l<b>a</b>rgest shared adventure"
             containerClass="mt-5 !text-black text-center"/>
             
             <div className='about-subtext'>
-                <p> The Games begin-yours life, now an epic MMORPG</p>
-                <p>Zentry unities every player from countless games and platforms</p>
+                <p> The Change begins — your data, now shaping a greener future</p>
+                <p>EarthSlight empowers you to see, predict, and protect Earth's evolving story</p>
 
             </div>
         </div>
         <div className='h-dvh w-screen' id='clip'>
             <div className='mask-clip-path about-image'>
                 <img
-                src='img/about.webp'
+                src='img/about.jpg'
                 alt='Background'
                 className='absolute left-0 top-0 size-full object-cover'/>
 
