@@ -8,6 +8,7 @@ A modern, interactive React web application showcasing stunning visuals and smoo
 - **Interactive Components**: Dynamic image slider and engaging user interface
 - **Smooth Animations**: Powered by GSAP for professional-grade animations
 - **Responsive Design**: Optimized for all device sizes using Tailwind CSS
+- - **Performance Optimized**: Built with Vite for lightning-fast development and builds
 
 
 ## 🛠️ Tech Stack
